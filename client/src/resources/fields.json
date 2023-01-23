@@ -1,0 +1,58 @@
+[
+	{
+		"label": "Restaurant Name",
+		"field": "restaurant_name",
+		"placeholder": "ex. McDonald's"
+	},
+	{
+		"label": "Contact Name",
+		"field": "contact_name",
+		"placeholder": "ex. John Doe"
+	},
+	{
+		"label": "Address",
+		"field": "address",
+		"placeholder": "",
+		"showOnly": true
+	},
+	{
+		"label": "First Line Address",
+		"field": "first_line_address",
+		"placeholder": "ex. floor, street name"
+	},
+	{
+		"label": "Second Line Address",
+		"field": "second_line_address",
+		"placeholder": "ex. area, locality"
+	},
+	{
+		"label": "City",
+		"field": "city",
+		"placeholder": "ex. Bengaluru"
+	},
+	{
+		"label": "State",
+		"field": "state",
+		"placeholder": "ex. KA"
+	},
+	{
+		"label": "Pincode",
+		"field": "pincode",
+		"placeholder": "ex. 560001"
+	},
+	{
+		"label": "Website",
+		"field": "website",
+		"placeholder": "ex. https://example.com"
+	},
+	{
+		"label": "Phone no.",
+		"field": "phone",
+		"placeholder": "ex. XXX XXX XXXX"
+	},
+	{
+		"label": "Average Daily Transactions",
+		"field": "avg_daily_tx",
+		"placeholder": "ex. 100"
+	}
+]

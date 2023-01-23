@@ -1,0 +1,9 @@
+{
+	"host": "myawsdb22012023.cyebwfox37vr.ap-south-1.rds.amazonaws.com",
+	"port": "3306",
+	"user": "admin",
+	"password": "dbpassword",
+	"database": "aws_jan_23_db",
+	"connectTimeout": 300000,
+	"connectionLimit": 5
+}
